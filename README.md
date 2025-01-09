@@ -3,7 +3,7 @@
 
 **descriptives.R**: simple descriptive analysis of a network focusing on its structure, central nodes, and individual attributes
 
-**stationarySAOM.R**: using so-call stationary stochastic actor-oriented models (SAOM) for cross-sectional network data (unlike the usual usage of SAOM) to get parameter estimates that are used in the subsequent simulations
+**stationarySAOM.R**: using so-called stationary stochastic actor-oriented models (SAOM) for cross-sectional network data (unlike the usual usage of SAOM) to get parameter estimates that are used in the subsequent simulations
 
 Both **descriptives.R** and **stationarySAOM.R** use the data contained in *LONDON_GANG.xlsx* and *LONDON_GANG_ATTR.xlsx*, which is the the original data collected and analysed by Grund and Densley (2012; 2015) and it is taken from the Mitchell Centre covert network database [here](https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/london-gang?authuser=0). The network data have been dichotomised for the purposes of this study.
 
